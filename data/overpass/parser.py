@@ -138,6 +138,7 @@ icon_mapping = {
 'shop:fishmonger': 'shopping_fish',
 'shop:florist': 'shopping_florist',
 'shop:garden_centre': 'shopping_garden_centre',
+'shop:general': 'shopping_convenience',
 'shop:gift': 'shopping_gift',
 'shop:greengrocer': 'shopping_greengrocer',
 'shop:hairdresser': 'shopping_hairdresser',
