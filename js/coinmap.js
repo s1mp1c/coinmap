@@ -1,4 +1,4 @@
-var knownLanguages = ["cz","de","en","it","jp","pt_br","ru","sk"];
+var knownLanguages = ["cz","de","en","it","jp","pt_br","ru","sk","tr"];
 
 function coinmap() {
 
