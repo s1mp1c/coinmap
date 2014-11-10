@@ -149,6 +149,7 @@ icon_mapping = {
 'shop:mobile_phone': 'shopping_mobile_phone',
 'shop:motorcycle': 'shopping_motorcycle',
 'shop:music': 'shopping_music',
+'shop:pastry': 'shopping_confectionery',
 'shop:newsagent': 'shopping_newspaper',
 'shop:supermarket': 'shopping_supermarket',
 'shop:toys': 'shopping_toys',
