@@ -1,4 +1,4 @@
-CoinMap
+coinmap
 =======
 
 <http://coinmap.org/>
