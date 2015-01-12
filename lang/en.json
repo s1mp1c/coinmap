@@ -1,11 +1,11 @@
 {
-	"how-to": "To list your venue go to <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>OpenStreetMap editor</a> and add <strong>payment:bitcoin=yes</strong> tag to it (or <strong>payment:litecoin=yes</strong> for Litecoin).",
+	"how-to": "To list your venue go to <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>OpenStreetMap editor</a> and add <strong>payment:bitcoin=yes</strong> tag to it.",
 	"please-on-ground": "Please don't create new venues unless they have <a href='http://en.wikipedia.org/wiki/Brick_and_mortar'>physical presence</a> on ground!",
 	"every-hour": "Venue data are updated every hour. Currently there are",
 	"and-": "and",
 	"places": "places on the map.",
 	"official-thread-source": "Official <a href='https://bitcointalk.org/index.php?topic=175900'>BitcoinTalk thread</a> | Source code available from <a href='https://github.com/prusnak/coinmap' target='_blank'>GitHub</a>",
-	"donations": "Donations are welcome at <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a> and <a href='litecoin:LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE'>LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE</a>.",
+	"donations": "Donations are welcome at <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a>.",
 	"close-": "Close",
 	"about-project": "About project",
 	"website-": "website",

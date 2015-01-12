@@ -1,11 +1,11 @@
 {
-	"how-to": "Listede yer almak için, <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>OpenStreetMap editor</a> girin ve yerinizi <strong>payment:bitcoin=yes</strong> ile etiketleyin (veya Litecoin için <strong>payment:litecoin=yes</strong>).",
+	"how-to": "Listede yer almak için, <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>OpenStreetMap editor</a> girin ve yerinizi <strong>payment:bitcoin=yes</strong> ile etiketleyin.",
 	"please-on-ground": "Lütfen, <a href='http://en.wikipedia.org/wiki/Brick_and_mortar'>fiziksel bir yapı</a> olmadıkça, yeni bir yer oluşturmayın !",
 	"every-hour": "Konum verileri her saat güncellenmektedir. Şuan haritada",
 	"and-": "ve",
 	"places": "yer var.",
 	"official-thread-source": "Resmi <a href='https://bitcointalk.org/index.php?topic=175900'>BitcoinTalk forumu</a> | Kaynak koduna <a href='https://github.com/prusnak/coinmap' target='_blank'>GitHub</a>dan ulaşabilirsin",
-	"donations": "Bağışlarını, <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a> ve <a href='litecoin:LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE'>LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE</a> adreslerine yollayabilirsin.",
+	"donations": "Bağışlarını, <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a> adreslerine yollayabilirsin.",
 	"close-": "Kapat",
 	"about-project": "Proje hakkında",
 	"website-": "website",

@@ -1,11 +1,11 @@
 {
-	"how-to": "新しいビットコインを利用出来る店を登録するために <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>OpenStreetMap editor</a> のサイトで登録して <strong>payment:bitcoin=yes</strong> のタグを付けることです (またはライトコインの場合 <strong>payment:litecoin=yes</strong>).",
+	"how-to": "新しいビットコインを利用出来る店を登録するために <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>OpenStreetMap editor</a> のサイトで登録して <strong>payment:bitcoin=yes</strong> のタグを付けることです.",
 	"please-on-ground": "<a href='http://ja.wikipedia.org/wiki/ブリック・アンド・モルタル'>店舗販売</a>のみの登録をお願いします。インターネットか配達のみの場所を登録しないで下さい",
 	"every-hour": "毎時、新しい店舗をアップデートします. 現在は",
 	"and-": "と",
 	"places": "の場所があります.",
 	"official-thread-source": "オフィシャルフォーラム（英語のみ） <a href='https://bitcointalk.org/index.php?topic=175900'>BitcoinTalk thread</a> | ソースコードは <a href='https://github.com/prusnak/coinmap' target='_blank'>GitHub</a> で見つけれます",
-	"donations": "寄付は <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a> と <a href='litecoin:LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE'>LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE</a> で大歓迎です.",
+	"donations": "寄付は <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a> で大歓迎です.",
 	"close-": "閉じる",
 	"about-project": "プロジェクトについて",
 	"website-": "ウェブサイト",

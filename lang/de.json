@@ -1,11 +1,11 @@
 {
-	"how-to": "Um einen Ort hinzuzufügen besuchen Sie <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'> OpenStreetMap Editor</a> und fügen Sie das Tag <strong>payment:bitcoin=yes</strong> (oder <strong>payment:litecoin=yes</strong> für Litecoin) hinzu.",
+	"how-to": "Um einen Ort hinzuzufügen besuchen Sie <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'> OpenStreetMap Editor</a> und fügen Sie das Tag <strong>payment:bitcoin=yes</strong> hinzu.",
 	"please-on-ground": "Bitte fügen Sie nur Geschäfte hinzu bei denen der Kunde die <a href='http://de.wikipedia.org/wiki/Brick_and_Mortar'>Geschäfts- oder Verkaufsräumen</a> besuchen kann.",
 	"every-hour": "Die Daten werden stündlich aktualisiert. Derzeit gibt es",
 	"and-": "und",
 	"places": "Akzeptanzstellen auf der Karte.",
 	"official-thread-source": "Offizieller <a href='https://bitcointalk.org/index.php?topic=175900'>BitcoinTalk thread</a> | Quellcode verfügbar auf <a href='https://github.com/prusnak/coinmap' target='_blank'>GitHub</a>",
-	"donations": "Spenden sind willkommen unter <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a> und <a href='litecoin:LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE'>LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE</a>.",
+	"donations": "Spenden sind willkommen unter <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a>.",
 	"close-": "Schließen",
 	"about-project": "Über das Projekt",
 	"website-": "Webseite",

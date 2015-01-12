@@ -1,11 +1,11 @@
 {
-	"how-to": "Chcete-li zapsat nové místo, tak přejděte na <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>OpenStreetMap editor</a> a otagujte místo <strong>payment:bitcoin=yes</strong> nebo <strong>payment:litecoin=yes</strong> pro Litecoin.",
+	"how-to": "Chcete-li zapsat nové místo, tak přejděte na <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>OpenStreetMap editor</a> a otagujte místo <strong>payment:bitcoin=yes</strong>.",
 	"please-on-ground": "Prosíme zadávejte pouze kamenné obchody, kde se dá takto platit.",
 	"every-hour": "Místa s možnými platbami se aktualizují každou hodinu. Aktuálně je zde ",
 	"and-": "a",
 	"places": "míst na mapě.",
 	"official-thread-source": "Oficiální <a href='https://bitcointalk.org/index.php?topic=175900'>BitcoinTalk diskusní vlákno</a> | Zdrojový kód je k dispozici na <a href='https://github.com/prusnak/coinmap' target='_blank'>GitHub</a>u",
-	"donations": "Dary jsou vítány na <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a> a <a href='litecoin:LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE'>LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE</a>.",
+	"donations": "Dary jsou vítány na <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a>.",
 	"close-": "Zavřít",
 	"about-project": "O projektu",
 	"website-": "stránka",

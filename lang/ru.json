@@ -1,11 +1,11 @@
 {
-	"how-to": "Чтобы добавить объект на карту, откройте <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>редактор OpenStreetMap</a> и добавьте тег <strong>payment:bitcoin=yes</strong> к нему (или <strong>payment:litecoin=yes</strong> для Litecoin).",
+	"how-to": "Чтобы добавить объект на карту, откройте <a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>редактор OpenStreetMap</a> и добавьте тег <strong>payment:bitcoin=yes</strong> к нему.",
 	"please-on-ground": "Пожалуйста, не создавайте объекты, не являющиеся реальными местами на земле!",
 	"every-hour": "Данные объектов обновляются каждый час. Сейчас показано",
 	"and-": "и",
 	"places": "мест.",
 	"official-thread-source": "Официальный <a href='https://bitcointalk.org/index.php?topic=175900'>тред на BitcoinTalk</a> | Исходный код доступен на <a href='https://github.com/prusnak/coinmap' target='_blank'>GitHub</a>",
-	"donations": "Пожертвования принимаются на адреса <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a> и <a href='litecoin:LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE'>LLTbGv9HtFPM5zeWJx9p6GGYhDGr5K4uQE</a>.",
+	"donations": "Пожертвования принимаются на адреса <a href='bitcoin:1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah'>1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah</a>.",
 	"close-": "Закрыть",
 	"about-project": "О проекте",
 	"website-": "Вебсайт",
